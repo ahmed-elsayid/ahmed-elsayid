@@ -3,7 +3,6 @@
 
 
   <div id="badges">
-  <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmed-abdelnaby-53079a253%2F" alt="LinkedIn Badge"/>
 
 </div>
 
@@ -13,6 +12,8 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFhOXNkczRnbGh0M292N3F6b3pxY2VobnhmcmIyYmtkNndxY2xqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif" height="300"/>
 </div>
+
+
 ---
 
 ### :man_technologist: About Me :
@@ -26,7 +27,8 @@ Computer Science Engineering  <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ahmed-abdelnaby-53079a253/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelnaby-53079a253/)
+
 
 ---
 
