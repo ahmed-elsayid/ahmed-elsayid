@@ -1,20 +1,18 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5vaHY1b3I0NG5paTJ3c3I2anB1cDM1dGV6b2NiZmUwd3l0MmVteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
 
 
-  <div id="badges">
+  <div id="badges"> -->
 
-</div>
+<!-- </div>
 
 <img src="https://komarev.com/ghpvc/?username=ahmed-elsayid&style=flat-square&color=blue" alt=""/>
 
-</div>
-<div align="center">
+</div> -->
+<!-- <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFhOXNkczRnbGh0M292N3F6b3pxY2VobnhmcmIyYmtkNndxY2xqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif" height="300"/>
 </div>
-
-
----
+ -->
 
 ### :man_technologist: About Me :
 
