@@ -16,15 +16,13 @@
 
 ### :man_technologist: About Me :
 
-Computer Science Engineering  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt
+Computer Engineering Graduate 🎓 from Egypt 🇪🇬
 
-
-- :telescope: Computer Science Engineering student with a keen interest in Machine Learning (ML) and Artificial Intelligence (AI).
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- :telescope: Computer Engineering graduate from Tanta University, passionate about Artificial Intelligence and Machine Learning.
+- :computer: Completed an 11-month professional training program at ITI, focusing on AI and Machine Learning.
+- :seedling: Interested in building practical AI solutions, especially in Generative AI, RAG, and intelligent applications.
+- :zap: In my free time, I solve programming problems, explore new technologies, and read technical articles.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelnaby-53079a253/)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelnaby-53079a253/)
 
 
